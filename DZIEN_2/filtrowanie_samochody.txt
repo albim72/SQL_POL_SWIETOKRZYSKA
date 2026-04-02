@@ -1,0 +1,25 @@
+Wyświetl wszystkie samochody marki Toyota.
+Wyświetl wszystkie samochody z rocznika 2020 lub nowsze.
+Znajdź auta, których cena_pln jest mniejsza niż 30000.
+Znajdź auta, których przebieg_km jest większy niż 150000.
+Wyświetl wszystkie samochody z miasta Kraków.
+Znajdź auta z paliwem diesel.
+Wyświetl samochody z automatyczną skrzynią biegów.
+Znajdź auta, które są bezwypadkowe.
+Znajdź auta, które są serwisowane.
+Wyświetl samochody, które mają moc_km większą niż 200.
+Znajdź auta, które mają od 2 do 4 właścicieli.
+Wyświetl samochody o nadwoziu SUV.
+Znajdź auta w kolorze czarny lub biały.
+Wyświetl samochody marki BMW lub Audi.
+Znajdź auta, które są tańsze niż 40000 i jednocześnie są bezwypadkowe.
+Znajdź auta z rocznika 2018+, których przebieg jest mniejszy niż 100000 km.
+Wyświetl samochody, które mają w polu wyposazenie element bluetooth.
+Znajdź auta, które mają w wyposazenie zarówno kamera cofania, jak i nawigacja.
+Wyświetl samochody dodane po dacie 2026-06-01.
+Znajdź auta, których model zaczyna się na literę C.
+Znajdź auta, których marka zawiera literę o.
+Wyświetl samochody z pojemnością silnika większą niż 2.0 l.
+Znajdź auta, które mają dokładnie 5 drzwi.
+Wyświetl samochody, które nie są serwisowane.
+Znajdź auta, które są z miasta Warszawa, Kraków albo Gdańsk.
