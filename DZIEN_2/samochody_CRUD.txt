@@ -30,6 +30,12 @@ Zmień miasto z Kraków na Kraków / Salon dla wszystkich pasujących dokumentó
 Ustaw czy_bezwypadkowy = false dla wszystkich aut, które mają więcej niż 3 właścicieli.
 Zwiększ przebieg_km o 500 dla samochodu o _id: 3.
 Dodaj nowe pole promocja: true dla wszystkich samochodów tańszych niż 25000 PLN.
+{ cena_pln: { $lt: 25000 } } ->
+{
+  $set: {
+		"promocja":true
+  },
+}
 Dodaj pole segment: "premium" dla wszystkich samochodów marki Mercedes, BMW i Audi.
 Zmień kolor wszystkich aut biały na perłowy biały.
 Ustaw liczba_wlascicieli = 1 dla wybranego samochodu.
