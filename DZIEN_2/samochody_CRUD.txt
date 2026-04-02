@@ -1,0 +1,63 @@
+1. Zadania z update
+
+Zmień cenę konkretnego samochodu o _id: 1 na nową wartość.
+Ustaw pole czy_serwisowany na true dla samochodu o _id: 5.
+Zwiększ cenę wszystkich samochodów marki BMW o 2000 PLN.
+Obniż cenę wszystkich aut starszych niż 2012 rok o 10%.
+Dodaj do wyposażenia samochodu o _id: 10 element alarm.
+Dodaj do wszystkich aut z automatyczną skrzynią element wyposażenia tempomat.
+Zmień miasto z Kraków na Kraków / Salon dla wszystkich pasujących dokumentów.
+Ustaw czy_bezwypadkowy = false dla wszystkich aut, które mają więcej niż 3 właścicieli.
+Zwiększ przebieg_km o 500 dla samochodu o _id: 3.
+Dodaj nowe pole promocja: true dla wszystkich samochodów tańszych niż 25000 PLN.
+Dodaj pole segment: "premium" dla wszystkich samochodów marki Mercedes, BMW i Audi.
+Zmień kolor wszystkich aut biały na perłowy biały.
+Ustaw liczba_wlascicieli = 1 dla wybranego samochodu.
+Dodaj do wszystkich aut z paliwem hybryda pole eko_strefa: true.
+Usuń pole promocja ze wszystkich dokumentów, w których zostało wcześniej dodane.
+Zamień wartość manualna na manual w polu skrzynia_biegow.
+Dopisz do wszystkich aut z miasta Poznań pole oddzial: "zachód".
+Ustaw nową datę dodania dla wybranego dokumentu.
+Dodaj element podgrzewane lusterka do wyposażenia wszystkich SUV-ów.
+Podnieś moc o 10 KM dla wszystkich aut z pojemnością silnika powyżej 3.0 l.
+
+2. Zadania z delete
+
+Usuń samochód o _id: 100.
+Usuń wszystkie auta z miasta Kraków.
+Usuń wszystkie samochody starsze niż 2005 rok.
+Usuń auta, których cena jest mniejsza niż 15000 PLN.
+Usuń wszystkie samochody, które nie są bezwypadkowe.
+Usuń auta z przebiegiem większym niż 250000 km.
+Usuń wszystkie samochody, które mają więcej niż 4 właścicieli.
+Usuń auta bez elementu bluetooth w wyposażeniu.
+Usuń samochody marki Fiat.
+Usuń wszystkie auta z paliwem LPG.
+Usuń samochody dodane przed datą 2026-03-01.
+Usuń wszystkie coupe z manualną skrzynią biegów.
+Usuń auta tańsze niż 20000 PLN i z przebiegiem powyżej 180000 km.
+Usuń wszystkie samochody z kolorem zielony.
+Usuń wszystkie dokumenty testowe, którym wcześniej dodano pole promocja: true.
+
+3. Zadania mieszane, bardziej praktyczne
+
+Znajdź wszystkie auta z miasta Lublin, a następnie podnieś ich cenę o 1500 PLN.
+Wyszukaj auta starsze niż 2010, które nie są serwisowane, a następnie usuń je.
+Znajdź wszystkie SUV-y z automatem i dodaj im do wyposażenia czujniki parkowania.
+Wyszukaj auta z przebiegiem powyżej 200000 km i oznacz je polem do_sprawdzenia: true.
+Usuń wszystkie auta oznaczone wcześniej jako do_sprawdzenia: true.
+Wyszukaj samochody marki Audi z ceną poniżej 50000 PLN, a następnie ustaw im promocja: true.
+Znajdź samochody z wyposazenie zawierającym nawigacja i dopisz im multimedia: "rozszerzone".
+Usuń wszystkie auta, które nie mają żadnego z pól: czy_serwisowany = true oraz czy_bezwypadkowy = true.
+
+
+4. Mini projekt do samodzielnego wykonania
+
+Wyobraź sobie, że to baza komisu samochodowego. Wykonaj kolejno:
+
+Wyświetl wszystkie auta premium.
+Znajdź najtańsze auta z automatem.
+Oznacz tańsze auta jako promocyjne.
+Dodaj nowe wyposażenie do SUV-ów.
+Usuń auta stare, drogie w utrzymaniu i z dużym przebiegiem.
+Sprawdź końcowy stan kolekcji.
