@@ -1,0 +1,2950 @@
+[
+  {
+    "_id": 1,
+    "marka": "Kia",
+    "model": "Rio",
+    "rok": 2008,
+    "przebieg_km": 64196,
+    "cena_pln": 24521,
+    "kolor": "biały",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 263,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Katarzyna Wiśniewska",
+    "data_dodania": {
+      "$date": "2026-10-01T00:00:00Z"
+    },
+    "wyposazenie": [
+      "asystent pasa",
+      "skórzana tapicerka",
+      "podgrzewane fotele",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 2,
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "rok": 2008,
+    "przebieg_km": 41853,
+    "cena_pln": 34090,
+    "kolor": "czerwony",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 162,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Kraków",
+    "sprzedawca": "Agnieszka Wójcik",
+    "data_dodania": {
+      "$date": "2025-10-09T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "asystent pasa",
+      "nawigacja"
+    ]
+  },
+  {
+    "_id": 3,
+    "marka": "Mercedes",
+    "model": "A180",
+    "rok": 2025,
+    "przebieg_km": 164794,
+    "cena_pln": 141949,
+    "kolor": "granatowy",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 222,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2025-05-15T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "czujniki parkowania",
+      "asystent pasa",
+      "nawigacja",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 4,
+    "marka": "BMW",
+    "model": "318i",
+    "rok": 2013,
+    "przebieg_km": 64175,
+    "cena_pln": 58543,
+    "kolor": "czerwony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 172,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Poznań",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2025-02-07T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "bluetooth",
+      "skórzana tapicerka",
+      "czujniki parkowania",
+      "LED"
+    ]
+  },
+  {
+    "_id": 5,
+    "marka": "Skoda",
+    "model": "Superb",
+    "rok": 2012,
+    "przebieg_km": 147159,
+    "cena_pln": 51057,
+    "kolor": "zielony",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 266,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Warszawa",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2024-11-06T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "nawigacja",
+      "skórzana tapicerka",
+      "podgrzewane fotele",
+      "tempomat",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 6,
+    "marka": "Renault",
+    "model": "Kadjar",
+    "rok": 2025,
+    "przebieg_km": 3009,
+    "cena_pln": 155904,
+    "kolor": "czerwony",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.2,
+    "moc_km": 249,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Warszawa",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2026-03-17T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "asystent pasa",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 7,
+    "marka": "Skoda",
+    "model": "Superb",
+    "rok": 2013,
+    "przebieg_km": 204112,
+    "cena_pln": 59784,
+    "kolor": "czarny",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 2.5,
+    "moc_km": 310,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2024-10-03T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "nawigacja",
+      "kamera cofania"
+    ]
+  },
+  {
+    "_id": 8,
+    "marka": "Skoda",
+    "model": "Kodiaq",
+    "rok": 2025,
+    "przebieg_km": 138326,
+    "cena_pln": 148227,
+    "kolor": "granatowy",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 3.0,
+    "moc_km": 183,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Katowice",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2024-04-08T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "klimatyzacja",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 9,
+    "marka": "Hyundai",
+    "model": "i30",
+    "rok": 2008,
+    "przebieg_km": 165439,
+    "cena_pln": 13729,
+    "kolor": "czarny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 92,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Paweł Dąbrowski",
+    "data_dodania": {
+      "$date": "2024-12-19T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "bluetooth",
+      "skórzana tapicerka",
+      "nawigacja",
+      "klimatyzacja",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 10,
+    "marka": "Kia",
+    "model": "Sorento",
+    "rok": 2019,
+    "przebieg_km": 122427,
+    "cena_pln": 107359,
+    "kolor": "biały",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.0,
+    "moc_km": 247,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Katarzyna Wiśniewska",
+    "data_dodania": {
+      "$date": "2026-08-05T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "tempomat",
+      "bluetooth",
+      "nawigacja",
+      "klimatyzacja",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 11,
+    "marka": "Renault",
+    "model": "Clio",
+    "rok": 2009,
+    "przebieg_km": 141711,
+    "cena_pln": 35360,
+    "kolor": "granatowy",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.0,
+    "moc_km": 98,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Warszawa",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2025-01-13T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "tempomat",
+      "skórzana tapicerka",
+      "czujniki parkowania",
+      "LED"
+    ]
+  },
+  {
+    "_id": 12,
+    "marka": "Renault",
+    "model": "Captur",
+    "rok": 2012,
+    "przebieg_km": 57068,
+    "cena_pln": 65306,
+    "kolor": "czarny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.0,
+    "moc_km": 223,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Katowice",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2024-02-20T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "skórzana tapicerka",
+      "nawigacja"
+    ]
+  },
+  {
+    "_id": 13,
+    "marka": "Hyundai",
+    "model": "i30",
+    "rok": 2009,
+    "przebieg_km": 109897,
+    "cena_pln": 34978,
+    "kolor": "szary",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 3.0,
+    "moc_km": 219,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2026-11-10T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "nawigacja",
+      "klimatyzacja",
+      "podgrzewane fotele",
+      "tempomat",
+      "LED"
+    ]
+  },
+  {
+    "_id": 14,
+    "marka": "Volkswagen",
+    "model": "Golf",
+    "rok": 2025,
+    "przebieg_km": 69520,
+    "cena_pln": 141608,
+    "kolor": "biały",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 300,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Łódź",
+    "sprzedawca": "Paweł Dąbrowski",
+    "data_dodania": {
+      "$date": "2024-11-27T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "kamera cofania",
+      "tempomat",
+      "klimatyzacja",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 15,
+    "marka": "Peugeot",
+    "model": "2008",
+    "rok": 2012,
+    "przebieg_km": 158552,
+    "cena_pln": 44766,
+    "kolor": "czerwony",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 127,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Warszawa",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2025-03-21T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "bluetooth",
+      "skórzana tapicerka",
+      "tempomat",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 16,
+    "marka": "Volkswagen",
+    "model": "Golf",
+    "rok": 2012,
+    "przebieg_km": 218784,
+    "cena_pln": 42546,
+    "kolor": "srebrny",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 3.0,
+    "moc_km": 216,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Poznań",
+    "sprzedawca": "Katarzyna Wiśniewska",
+    "data_dodania": {
+      "$date": "2026-04-22T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "asystent pasa",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 17,
+    "marka": "Hyundai",
+    "model": "i30",
+    "rok": 2015,
+    "przebieg_km": 209685,
+    "cena_pln": 71508,
+    "kolor": "zielony",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 300,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Wrocław",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "podgrzewane fotele",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 18,
+    "marka": "Opel",
+    "model": "Corsa",
+    "rok": 2017,
+    "przebieg_km": 59662,
+    "cena_pln": 87879,
+    "kolor": "granatowy",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.0,
+    "moc_km": 243,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Katowice",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2026-09-11T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "tempomat",
+      "kamera cofania"
+    ]
+  },
+  {
+    "_id": 19,
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "rok": 2009,
+    "przebieg_km": 113918,
+    "cena_pln": 29550,
+    "kolor": "biały",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 186,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Warszawa",
+    "sprzedawca": "Paweł Dąbrowski",
+    "data_dodania": {
+      "$date": "2026-11-24T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "skórzana tapicerka",
+      "nawigacja",
+      "LED"
+    ]
+  },
+  {
+    "_id": 20,
+    "marka": "Audi",
+    "model": "Q5",
+    "rok": 2018,
+    "przebieg_km": 32669,
+    "cena_pln": 105178,
+    "kolor": "czerwony",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 204,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2026-12-06T00:00:00Z"
+    },
+    "wyposazenie": [
+      "skórzana tapicerka",
+      "asystent pasa",
+      "klimatyzacja",
+      "kamera cofania",
+      "LED"
+    ]
+  },
+  {
+    "_id": 21,
+    "marka": "Ford",
+    "model": "Fiesta",
+    "rok": 2018,
+    "przebieg_km": 115909,
+    "cena_pln": 97796,
+    "kolor": "niebieski",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 205,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2024-04-05T00:00:00Z"
+    },
+    "wyposazenie": [
+      "klimatyzacja",
+      "podgrzewane fotele",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 22,
+    "marka": "Hyundai",
+    "model": "i20",
+    "rok": 2022,
+    "przebieg_km": 165089,
+    "cena_pln": 120224,
+    "kolor": "zielony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 258,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Katarzyna Wiśniewska",
+    "data_dodania": {
+      "$date": "2024-12-17T00:00:00Z"
+    },
+    "wyposazenie": [
+      "klimatyzacja",
+      "asystent pasa",
+      "podgrzewane fotele",
+      "skórzana tapicerka",
+      "LED",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 23,
+    "marka": "Skoda",
+    "model": "Kodiaq",
+    "rok": 2024,
+    "przebieg_km": 78047,
+    "cena_pln": 136954,
+    "kolor": "zielony",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 231,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2026-08-21T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "bluetooth",
+      "nawigacja",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 24,
+    "marka": "BMW",
+    "model": "320d",
+    "rok": 2016,
+    "przebieg_km": 141597,
+    "cena_pln": 71992,
+    "kolor": "granatowy",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 113,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Agnieszka Wójcik",
+    "data_dodania": {
+      "$date": "2026-08-14T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "skórzana tapicerka",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 25,
+    "marka": "Hyundai",
+    "model": "i20",
+    "rok": 2020,
+    "przebieg_km": 92211,
+    "cena_pln": 107515,
+    "kolor": "zielony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 293,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Warszawa",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2025-11-22T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "bluetooth",
+      "LED",
+      "tempomat",
+      "skórzana tapicerka",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 26,
+    "marka": "Mercedes",
+    "model": "GLC",
+    "rok": 2008,
+    "przebieg_km": 112358,
+    "cena_pln": 19234,
+    "kolor": "czarny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 121,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Poznań",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2025-07-09T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "klimatyzacja",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 27,
+    "marka": "Audi",
+    "model": "A4",
+    "rok": 2010,
+    "przebieg_km": 170853,
+    "cena_pln": 26991,
+    "kolor": "granatowy",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.0,
+    "moc_km": 318,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Białystok",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2026-04-15T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "kamera cofania",
+      "nawigacja",
+      "skórzana tapicerka",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 28,
+    "marka": "BMW",
+    "model": "318i",
+    "rok": 2008,
+    "przebieg_km": 75470,
+    "cena_pln": 31059,
+    "kolor": "granatowy",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 176,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Łódź",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2026-01-12T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "nawigacja",
+      "LED",
+      "klimatyzacja",
+      "podgrzewane fotele",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 29,
+    "marka": "Volkswagen",
+    "model": "Polo",
+    "rok": 2019,
+    "przebieg_km": 217240,
+    "cena_pln": 93153,
+    "kolor": "srebrny",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 186,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Łódź",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2025-04-27T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "bluetooth",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 30,
+    "marka": "Opel",
+    "model": "Zafira",
+    "rok": 2020,
+    "przebieg_km": 129579,
+    "cena_pln": 113576,
+    "kolor": "niebieski",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 121,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Katowice",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2026-04-03T00:00:00Z"
+    },
+    "wyposazenie": [
+      "skórzana tapicerka",
+      "bluetooth",
+      "podgrzewane fotele",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 31,
+    "marka": "Opel",
+    "model": "Mokka",
+    "rok": 2022,
+    "przebieg_km": 24393,
+    "cena_pln": 126869,
+    "kolor": "granatowy",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 178,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Paweł Dąbrowski",
+    "data_dodania": {
+      "$date": "2025-06-23T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "LED",
+      "asystent pasa",
+      "nawigacja",
+      "klimatyzacja",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 32,
+    "marka": "Audi",
+    "model": "A3",
+    "rok": 2025,
+    "przebieg_km": 90461,
+    "cena_pln": 140796,
+    "kolor": "niebieski",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 130,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Wrocław",
+    "sprzedawca": "Katarzyna Wiśniewska",
+    "data_dodania": {
+      "$date": "2025-03-10T00:00:00Z"
+    },
+    "wyposazenie": [
+      "asystent pasa",
+      "kamera cofania",
+      "tempomat"
+    ]
+  },
+  {
+    "_id": 33,
+    "marka": "Toyota",
+    "model": "Corolla",
+    "rok": 2025,
+    "przebieg_km": 33103,
+    "cena_pln": 152802,
+    "kolor": "czarny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 101,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Warszawa",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2025-02-27T00:00:00Z"
+    },
+    "wyposazenie": [
+      "skórzana tapicerka",
+      "bluetooth",
+      "nawigacja"
+    ]
+  },
+  {
+    "_id": 34,
+    "marka": "Hyundai",
+    "model": "i20",
+    "rok": 2012,
+    "przebieg_km": 147545,
+    "cena_pln": 57746,
+    "kolor": "granatowy",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 96,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Białystok",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2026-07-10T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "nawigacja",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 35,
+    "marka": "Kia",
+    "model": "Ceed",
+    "rok": 2016,
+    "przebieg_km": 41171,
+    "cena_pln": 82635,
+    "kolor": "biały",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 216,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Warszawa",
+    "sprzedawca": "Katarzyna Wiśniewska",
+    "data_dodania": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "podgrzewane fotele",
+      "tempomat",
+      "skórzana tapicerka",
+      "czujniki parkowania",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 36,
+    "marka": "Kia",
+    "model": "Ceed",
+    "rok": 2021,
+    "przebieg_km": 58932,
+    "cena_pln": 122895,
+    "kolor": "czerwony",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 307,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Białystok",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2025-12-10T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "asystent pasa",
+      "bluetooth",
+      "podgrzewane fotele",
+      "klimatyzacja",
+      "LED"
+    ]
+  },
+  {
+    "_id": 37,
+    "marka": "Toyota",
+    "model": "Camry",
+    "rok": 2018,
+    "przebieg_km": 6780,
+    "cena_pln": 96954,
+    "kolor": "czarny",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 247,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Wrocław",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2026-07-21T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "bluetooth",
+      "czujniki parkowania",
+      "podgrzewane fotele",
+      "kamera cofania",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 38,
+    "marka": "Kia",
+    "model": "Rio",
+    "rok": 2013,
+    "przebieg_km": 181842,
+    "cena_pln": 54570,
+    "kolor": "zielony",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 244,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Kraków",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2026-01-22T00:00:00Z"
+    },
+    "wyposazenie": [
+      "skórzana tapicerka",
+      "klimatyzacja",
+      "podgrzewane fotele",
+      "tempomat",
+      "kamera cofania",
+      "LED"
+    ]
+  },
+  {
+    "_id": 39,
+    "marka": "Opel",
+    "model": "Mokka",
+    "rok": 2009,
+    "przebieg_km": 143974,
+    "cena_pln": 23628,
+    "kolor": "niebieski",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 187,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Katowice",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2026-07-03T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "bluetooth",
+      "LED",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 40,
+    "marka": "Skoda",
+    "model": "Kodiaq",
+    "rok": 2017,
+    "przebieg_km": 71676,
+    "cena_pln": 90073,
+    "kolor": "granatowy",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 195,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Kraków",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2025-06-26T00:00:00Z"
+    },
+    "wyposazenie": [
+      "klimatyzacja",
+      "tempomat",
+      "asystent pasa",
+      "skórzana tapicerka",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 41,
+    "marka": "Hyundai",
+    "model": "Kona",
+    "rok": 2012,
+    "przebieg_km": 126967,
+    "cena_pln": 49497,
+    "kolor": "zielony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 216,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "wyposazenie": [
+      "skórzana tapicerka",
+      "kamera cofania",
+      "bluetooth",
+      "klimatyzacja",
+      "nawigacja",
+      "tempomat"
+    ]
+  },
+  {
+    "_id": 42,
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "rok": 2011,
+    "przebieg_km": 115423,
+    "cena_pln": 39399,
+    "kolor": "niebieski",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 2.5,
+    "moc_km": 308,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Białystok",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2025-10-23T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "czujniki parkowania",
+      "skórzana tapicerka",
+      "kamera cofania",
+      "asystent pasa",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 43,
+    "marka": "Renault",
+    "model": "Clio",
+    "rok": 2010,
+    "przebieg_km": 179411,
+    "cena_pln": 40735,
+    "kolor": "biały",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 133,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Wrocław",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2024-06-26T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "czujniki parkowania",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 44,
+    "marka": "Mercedes",
+    "model": "C200",
+    "rok": 2015,
+    "przebieg_km": 148354,
+    "cena_pln": 74302,
+    "kolor": "srebrny",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 118,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "wyposazenie": [
+      "klimatyzacja",
+      "bluetooth",
+      "tempomat",
+      "czujniki parkowania",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 45,
+    "marka": "Skoda",
+    "model": "Octavia",
+    "rok": 2022,
+    "przebieg_km": 77014,
+    "cena_pln": 122740,
+    "kolor": "czerwony",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 251,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2026-06-19T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "klimatyzacja",
+      "skórzana tapicerka",
+      "kamera cofania",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 46,
+    "marka": "Hyundai",
+    "model": "i20",
+    "rok": 2023,
+    "przebieg_km": 75024,
+    "cena_pln": 137707,
+    "kolor": "szary",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 230,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Warszawa",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2025-01-19T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "nawigacja",
+      "tempomat",
+      "LED",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 47,
+    "marka": "Mercedes",
+    "model": "C200",
+    "rok": 2014,
+    "przebieg_km": 141402,
+    "cena_pln": 71047,
+    "kolor": "czerwony",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 210,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Białystok",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2024-04-28T00:00:00Z"
+    },
+    "wyposazenie": [
+      "asystent pasa",
+      "czujniki parkowania",
+      "nawigacja",
+      "skórzana tapicerka",
+      "podgrzewane fotele",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 48,
+    "marka": "BMW",
+    "model": "116i",
+    "rok": 2011,
+    "przebieg_km": 176377,
+    "cena_pln": 45161,
+    "kolor": "zielony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 224,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Łódź",
+    "sprzedawca": "Paweł Dąbrowski",
+    "data_dodania": {
+      "$date": "2025-10-08T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "tempomat",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 49,
+    "marka": "Volkswagen",
+    "model": "Passat",
+    "rok": 2009,
+    "przebieg_km": 39893,
+    "cena_pln": 37880,
+    "kolor": "granatowy",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.2,
+    "moc_km": 99,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2025-10-14T00:00:00Z"
+    },
+    "wyposazenie": [
+      "klimatyzacja",
+      "czujniki parkowania",
+      "podgrzewane fotele",
+      "bluetooth",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 50,
+    "marka": "Ford",
+    "model": "Kuga",
+    "rok": 2011,
+    "przebieg_km": 48147,
+    "cena_pln": 52068,
+    "kolor": "zielony",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 90,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Łódź",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2024-06-08T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "podgrzewane fotele",
+      "nawigacja",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 51,
+    "marka": "Renault",
+    "model": "Megane",
+    "rok": 2014,
+    "przebieg_km": 61079,
+    "cena_pln": 68497,
+    "kolor": "czarny",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 276,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Warszawa",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2024-06-26T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "czujniki parkowania",
+      "klimatyzacja",
+      "nawigacja"
+    ]
+  },
+  {
+    "_id": 52,
+    "marka": "BMW",
+    "model": "318i",
+    "rok": 2012,
+    "przebieg_km": 137910,
+    "cena_pln": 44829,
+    "kolor": "niebieski",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.2,
+    "moc_km": 196,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Łódź",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2026-11-17T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "klimatyzacja",
+      "asystent pasa",
+      "podgrzewane fotele",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 53,
+    "marka": "Mercedes",
+    "model": "A180",
+    "rok": 2023,
+    "przebieg_km": 116277,
+    "cena_pln": 122902,
+    "kolor": "srebrny",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 1.2,
+    "moc_km": 157,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Białystok",
+    "sprzedawca": "Paweł Dąbrowski",
+    "data_dodania": {
+      "$date": "2026-07-04T00:00:00Z"
+    },
+    "wyposazenie": [
+      "asystent pasa",
+      "podgrzewane fotele",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 54,
+    "marka": "Opel",
+    "model": "Insignia",
+    "rok": 2021,
+    "przebieg_km": 118882,
+    "cena_pln": 114021,
+    "kolor": "biały",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 261,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Białystok",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2024-02-03T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "czujniki parkowania",
+      "kamera cofania",
+      "tempomat",
+      "klimatyzacja",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 55,
+    "marka": "Renault",
+    "model": "Talisman",
+    "rok": 2018,
+    "przebieg_km": 107691,
+    "cena_pln": 93178,
+    "kolor": "czarny",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 297,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Lublin",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2024-02-12T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "tempomat",
+      "podgrzewane fotele",
+      "skórzana tapicerka",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 56,
+    "marka": "Renault",
+    "model": "Talisman",
+    "rok": 2025,
+    "przebieg_km": 172446,
+    "cena_pln": 144793,
+    "kolor": "srebrny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 82,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Lublin",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2026-11-13T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "klimatyzacja",
+      "nawigacja"
+    ]
+  },
+  {
+    "_id": 57,
+    "marka": "Peugeot",
+    "model": "2008",
+    "rok": 2014,
+    "przebieg_km": 118920,
+    "cena_pln": 64071,
+    "kolor": "czerwony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 169,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Lublin",
+    "sprzedawca": "Ewa Kaczmarek",
+    "data_dodania": {
+      "$date": "2024-11-03T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "skórzana tapicerka",
+      "LED",
+      "tempomat",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 58,
+    "marka": "Mercedes",
+    "model": "E220",
+    "rok": 2014,
+    "przebieg_km": 29836,
+    "cena_pln": 71268,
+    "kolor": "czerwony",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 103,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Ewa Kaczmarek",
+    "data_dodania": {
+      "$date": "2024-01-07T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "kamera cofania",
+      "tempomat",
+      "asystent pasa",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 59,
+    "marka": "Volkswagen",
+    "model": "Golf",
+    "rok": 2023,
+    "przebieg_km": 46057,
+    "cena_pln": 129431,
+    "kolor": "granatowy",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 211,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Białystok",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2025-10-14T00:00:00Z"
+    },
+    "wyposazenie": [
+      "skórzana tapicerka",
+      "tempomat",
+      "nawigacja",
+      "podgrzewane fotele",
+      "klimatyzacja",
+      "kamera cofania"
+    ]
+  },
+  {
+    "_id": 60,
+    "marka": "Skoda",
+    "model": "Scala",
+    "rok": 2022,
+    "przebieg_km": 94857,
+    "cena_pln": 117854,
+    "kolor": "biały",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 291,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Wrocław",
+    "sprzedawca": "Agnieszka Wójcik",
+    "data_dodania": {
+      "$date": "2024-06-25T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "asystent pasa",
+      "LED",
+      "tempomat"
+    ]
+  },
+  {
+    "_id": 61,
+    "marka": "Renault",
+    "model": "Megane",
+    "rok": 2019,
+    "przebieg_km": 214682,
+    "cena_pln": 96399,
+    "kolor": "biały",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 135,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Lublin",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2025-10-25T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "czujniki parkowania",
+      "asystent pasa",
+      "nawigacja",
+      "podgrzewane fotele",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 62,
+    "marka": "Opel",
+    "model": "Mokka",
+    "rok": 2017,
+    "przebieg_km": 155037,
+    "cena_pln": 77517,
+    "kolor": "biały",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 204,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Wrocław",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2026-02-20T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "asystent pasa",
+      "klimatyzacja",
+      "podgrzewane fotele",
+      "tempomat",
+      "nawigacja"
+    ]
+  },
+  {
+    "_id": 63,
+    "marka": "Audi",
+    "model": "Q5",
+    "rok": 2023,
+    "przebieg_km": 16219,
+    "cena_pln": 137083,
+    "kolor": "szary",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.2,
+    "moc_km": 282,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Białystok",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2026-09-20T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "LED",
+      "tempomat",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 64,
+    "marka": "Mercedes",
+    "model": "E220",
+    "rok": 2009,
+    "przebieg_km": 169687,
+    "cena_pln": 24907,
+    "kolor": "biały",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.2,
+    "moc_km": 159,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Łódź",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2025-05-21T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "nawigacja",
+      "tempomat",
+      "bluetooth",
+      "podgrzewane fotele",
+      "LED"
+    ]
+  },
+  {
+    "_id": 65,
+    "marka": "Skoda",
+    "model": "Scala",
+    "rok": 2010,
+    "przebieg_km": 110993,
+    "cena_pln": 39452,
+    "kolor": "szary",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 79,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2024-02-10T00:00:00Z"
+    },
+    "wyposazenie": [
+      "asystent pasa",
+      "LED",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 66,
+    "marka": "Kia",
+    "model": "Sportage",
+    "rok": 2012,
+    "przebieg_km": 40436,
+    "cena_pln": 53423,
+    "kolor": "srebrny",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 287,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Łódź",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2026-08-08T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "bluetooth",
+      "podgrzewane fotele",
+      "kamera cofania"
+    ]
+  },
+  {
+    "_id": 67,
+    "marka": "Kia",
+    "model": "Stonic",
+    "rok": 2022,
+    "przebieg_km": 73864,
+    "cena_pln": 130839,
+    "kolor": "zielony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 203,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Białystok",
+    "sprzedawca": "Agnieszka Wójcik",
+    "data_dodania": {
+      "$date": "2026-02-23T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "nawigacja",
+      "kamera cofania"
+    ]
+  },
+  {
+    "_id": 68,
+    "marka": "BMW",
+    "model": "X5",
+    "rok": 2024,
+    "przebieg_km": 114680,
+    "cena_pln": 130328,
+    "kolor": "niebieski",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 284,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2024-06-08T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "nawigacja",
+      "LED"
+    ]
+  },
+  {
+    "_id": 69,
+    "marka": "Skoda",
+    "model": "Fabia",
+    "rok": 2009,
+    "przebieg_km": 217517,
+    "cena_pln": 23339,
+    "kolor": "niebieski",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 269,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2026-12-20T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "tempomat",
+      "podgrzewane fotele",
+      "kamera cofania",
+      "klimatyzacja",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 70,
+    "marka": "Ford",
+    "model": "Fiesta",
+    "rok": 2022,
+    "przebieg_km": 219332,
+    "cena_pln": 121282,
+    "kolor": "czarny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 227,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Łódź",
+    "sprzedawca": "Agnieszka Wójcik",
+    "data_dodania": {
+      "$date": "2024-10-14T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "asystent pasa",
+      "czujniki parkowania",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 71,
+    "marka": "Renault",
+    "model": "Talisman",
+    "rok": 2024,
+    "przebieg_km": 133070,
+    "cena_pln": 136433,
+    "kolor": "niebieski",
+    "paliwo": "LPG",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.0,
+    "moc_km": 174,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Poznań",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2025-04-24T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "czujniki parkowania",
+      "kamera cofania"
+    ]
+  },
+  {
+    "_id": 72,
+    "marka": "Toyota",
+    "model": "RAV4",
+    "rok": 2025,
+    "przebieg_km": 168505,
+    "cena_pln": 134388,
+    "kolor": "niebieski",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 253,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2024-01-11T00:00:00Z"
+    },
+    "wyposazenie": [
+      "asystent pasa",
+      "skórzana tapicerka",
+      "bluetooth",
+      "kamera cofania",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 73,
+    "marka": "Kia",
+    "model": "Ceed",
+    "rok": 2017,
+    "przebieg_km": 204692,
+    "cena_pln": 73408,
+    "kolor": "biały",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 144,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Lublin",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2026-08-12T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "skórzana tapicerka",
+      "LED",
+      "podgrzewane fotele",
+      "tempomat"
+    ]
+  },
+  {
+    "_id": 74,
+    "marka": "Skoda",
+    "model": "Scala",
+    "rok": 2017,
+    "przebieg_km": 20989,
+    "cena_pln": 92693,
+    "kolor": "niebieski",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 153,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Warszawa",
+    "sprzedawca": "Agnieszka Wójcik",
+    "data_dodania": {
+      "$date": "2026-07-09T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "skórzana tapicerka",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 75,
+    "marka": "Renault",
+    "model": "Megane",
+    "rok": 2008,
+    "przebieg_km": 159271,
+    "cena_pln": 24367,
+    "kolor": "srebrny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 83,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Łódź",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2026-03-22T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "LED",
+      "bluetooth",
+      "skórzana tapicerka",
+      "klimatyzacja",
+      "tempomat"
+    ]
+  },
+  {
+    "_id": 76,
+    "marka": "Skoda",
+    "model": "Scala",
+    "rok": 2019,
+    "przebieg_km": 170278,
+    "cena_pln": 93944,
+    "kolor": "biały",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 320,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Wrocław",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2026-08-07T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "podgrzewane fotele",
+      "nawigacja",
+      "LED",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 77,
+    "marka": "Opel",
+    "model": "Insignia",
+    "rok": 2022,
+    "przebieg_km": 106235,
+    "cena_pln": 126673,
+    "kolor": "szary",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 1.8,
+    "moc_km": 245,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Lublin",
+    "sprzedawca": "Agnieszka Wójcik",
+    "data_dodania": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "podgrzewane fotele",
+      "bluetooth",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 78,
+    "marka": "Audi",
+    "model": "Q5",
+    "rok": 2019,
+    "przebieg_km": 144610,
+    "cena_pln": 93557,
+    "kolor": "biały",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 3.0,
+    "moc_km": 301,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Łódź",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2024-06-21T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "LED",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 79,
+    "marka": "Skoda",
+    "model": "Scala",
+    "rok": 2013,
+    "przebieg_km": 33825,
+    "cena_pln": 65382,
+    "kolor": "czarny",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 2.5,
+    "moc_km": 308,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Poznań",
+    "sprzedawca": "Katarzyna Wiśniewska",
+    "data_dodania": {
+      "$date": "2025-09-10T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "podgrzewane fotele",
+      "LED"
+    ]
+  },
+  {
+    "_id": 80,
+    "marka": "Skoda",
+    "model": "Superb",
+    "rok": 2025,
+    "przebieg_km": 168031,
+    "cena_pln": 134320,
+    "kolor": "srebrny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 3.0,
+    "moc_km": 316,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Kraków",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2026-10-09T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "skórzana tapicerka",
+      "klimatyzacja",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 81,
+    "marka": "Kia",
+    "model": "Stonic",
+    "rok": 2017,
+    "przebieg_km": 79192,
+    "cena_pln": 90577,
+    "kolor": "zielony",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 281,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2025-04-11T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "LED",
+      "asystent pasa",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 82,
+    "marka": "Skoda",
+    "model": "Superb",
+    "rok": 2024,
+    "przebieg_km": 83654,
+    "cena_pln": 135268,
+    "kolor": "czerwony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 106,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Ewa Kaczmarek",
+    "data_dodania": {
+      "$date": "2025-04-28T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "LED",
+      "podgrzewane fotele",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 83,
+    "marka": "Skoda",
+    "model": "Kodiaq",
+    "rok": 2024,
+    "przebieg_km": 80882,
+    "cena_pln": 139677,
+    "kolor": "zielony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 1.0,
+    "moc_km": 98,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Wrocław",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2026-11-22T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "asystent pasa",
+      "klimatyzacja",
+      "skórzana tapicerka",
+      "bluetooth",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 84,
+    "marka": "Skoda",
+    "model": "Superb",
+    "rok": 2019,
+    "przebieg_km": 95928,
+    "cena_pln": 96067,
+    "kolor": "granatowy",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "coupe",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 88,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Katowice",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2026-11-20T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "nawigacja",
+      "skórzana tapicerka"
+    ]
+  },
+  {
+    "_id": 85,
+    "marka": "Audi",
+    "model": "A6",
+    "rok": 2025,
+    "przebieg_km": 98954,
+    "cena_pln": 139447,
+    "kolor": "zielony",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 229,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Katowice",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2024-10-17T00:00:00Z"
+    },
+    "wyposazenie": [
+      "czujniki parkowania",
+      "LED",
+      "kamera cofania",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 86,
+    "marka": "Hyundai",
+    "model": "Tucson",
+    "rok": 2018,
+    "przebieg_km": 133618,
+    "cena_pln": 94032,
+    "kolor": "czerwony",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 256,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Łódź",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2026-12-21T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "bluetooth",
+      "tempomat"
+    ]
+  },
+  {
+    "_id": 87,
+    "marka": "Kia",
+    "model": "Stonic",
+    "rok": 2015,
+    "przebieg_km": 152967,
+    "cena_pln": 70634,
+    "kolor": "zielony",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 209,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Warszawa",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2025-07-05T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "skórzana tapicerka",
+      "bluetooth",
+      "asystent pasa",
+      "czujniki parkowania",
+      "klimatyzacja"
+    ]
+  },
+  {
+    "_id": 88,
+    "marka": "Peugeot",
+    "model": "308",
+    "rok": 2024,
+    "przebieg_km": 85209,
+    "cena_pln": 142032,
+    "kolor": "zielony",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 2.2,
+    "moc_km": 209,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 3,
+    "miasto": "Łódź",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2024-04-09T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "tempomat",
+      "asystent pasa",
+      "czujniki parkowania",
+      "nawigacja"
+    ]
+  },
+  {
+    "_id": 89,
+    "marka": "Peugeot",
+    "model": "508",
+    "rok": 2018,
+    "przebieg_km": 146928,
+    "cena_pln": 99543,
+    "kolor": "biały",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 148,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Wrocław",
+    "sprzedawca": "Anna Nowak",
+    "data_dodania": {
+      "$date": "2025-08-21T00:00:00Z"
+    },
+    "wyposazenie": [
+      "bluetooth",
+      "podgrzewane fotele",
+      "asystent pasa",
+      "skórzana tapicerka",
+      "tempomat"
+    ]
+  },
+  {
+    "_id": 90,
+    "marka": "BMW",
+    "model": "116i",
+    "rok": 2016,
+    "przebieg_km": 161396,
+    "cena_pln": 81226,
+    "kolor": "granatowy",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 3.0,
+    "moc_km": 136,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 1,
+    "miasto": "Kraków",
+    "sprzedawca": "Tomasz Kamiński",
+    "data_dodania": {
+      "$date": "2025-12-16T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "klimatyzacja",
+      "LED"
+    ]
+  },
+  {
+    "_id": 91,
+    "marka": "Mercedes",
+    "model": "GLA",
+    "rok": 2023,
+    "przebieg_km": 198157,
+    "cena_pln": 130939,
+    "kolor": "czerwony",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.6,
+    "moc_km": 157,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2024-07-26T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "tempomat",
+      "klimatyzacja",
+      "bluetooth",
+      "LED",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 92,
+    "marka": "Hyundai",
+    "model": "i20",
+    "rok": 2018,
+    "przebieg_km": 168116,
+    "cena_pln": 91452,
+    "kolor": "srebrny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 2.5,
+    "moc_km": 201,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 2,
+    "miasto": "Białystok",
+    "sprzedawca": "Marek Lewandowski",
+    "data_dodania": {
+      "$date": "2026-03-01T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "podgrzewane fotele",
+      "kamera cofania",
+      "LED",
+      "czujniki parkowania"
+    ]
+  },
+  {
+    "_id": 93,
+    "marka": "Mercedes",
+    "model": "GLA",
+    "rok": 2024,
+    "przebieg_km": 105076,
+    "cena_pln": 140559,
+    "kolor": "srebrny",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.2,
+    "moc_km": 122,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2025-06-10T00:00:00Z"
+    },
+    "wyposazenie": [
+      "tempomat",
+      "czujniki parkowania",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 94,
+    "marka": "Toyota",
+    "model": "Corolla",
+    "rok": 2022,
+    "przebieg_km": 106277,
+    "cena_pln": 126738,
+    "kolor": "czerwony",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 2.5,
+    "moc_km": 311,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Lublin",
+    "sprzedawca": "Magdalena Mazur",
+    "data_dodania": {
+      "$date": "2024-08-24T00:00:00Z"
+    },
+    "wyposazenie": [
+      "skórzana tapicerka",
+      "asystent pasa",
+      "bluetooth",
+      "LED",
+      "tempomat"
+    ]
+  },
+  {
+    "_id": 95,
+    "marka": "Kia",
+    "model": "Ceed",
+    "rok": 2015,
+    "przebieg_km": 156189,
+    "cena_pln": 76810,
+    "kolor": "niebieski",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.2,
+    "moc_km": 209,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 2,
+    "miasto": "Łódź",
+    "sprzedawca": "Paweł Dąbrowski",
+    "data_dodania": {
+      "$date": "2024-03-11T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "podgrzewane fotele",
+      "bluetooth",
+      "klimatyzacja",
+      "tempomat",
+      "asystent pasa"
+    ]
+  },
+  {
+    "_id": 96,
+    "marka": "Toyota",
+    "model": "Camry",
+    "rok": 2012,
+    "przebieg_km": 119746,
+    "cena_pln": 53659,
+    "kolor": "niebieski",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "van",
+    "pojemnosc_silnika_l": 1.0,
+    "moc_km": 218,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 1,
+    "miasto": "Gdańsk",
+    "sprzedawca": "Ewa Kaczmarek",
+    "data_dodania": {
+      "$date": "2024-01-14T00:00:00Z"
+    },
+    "wyposazenie": [
+      "nawigacja",
+      "asystent pasa",
+      "klimatyzacja",
+      "bluetooth",
+      "podgrzewane fotele"
+    ]
+  },
+  {
+    "_id": 97,
+    "marka": "Toyota",
+    "model": "RAV4",
+    "rok": 2021,
+    "przebieg_km": 35501,
+    "cena_pln": 126707,
+    "kolor": "zielony",
+    "paliwo": "benzyna",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "kombi",
+    "pojemnosc_silnika_l": 2.0,
+    "moc_km": 170,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Kraków",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2026-07-17T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "klimatyzacja",
+      "asystent pasa",
+      "kamera cofania"
+    ]
+  },
+  {
+    "_id": 98,
+    "marka": "Opel",
+    "model": "Zafira",
+    "rok": 2021,
+    "przebieg_km": 215838,
+    "cena_pln": 103495,
+    "kolor": "szary",
+    "paliwo": "diesel",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "SUV",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 192,
+    "liczba_drzwi": 3,
+    "czy_bezwypadkowy": true,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 4,
+    "miasto": "Łódź",
+    "sprzedawca": "Jan Kowalski",
+    "data_dodania": {
+      "$date": "2024-04-03T00:00:00Z"
+    },
+    "wyposazenie": [
+      "LED",
+      "klimatyzacja",
+      "bluetooth"
+    ]
+  },
+  {
+    "_id": 99,
+    "marka": "Hyundai",
+    "model": "i20",
+    "rok": 2015,
+    "przebieg_km": 105451,
+    "cena_pln": 73755,
+    "kolor": "granatowy",
+    "paliwo": "hybryda",
+    "skrzynia_biegow": "manualna",
+    "nadwozie": "hatchback",
+    "pojemnosc_silnika_l": 1.5,
+    "moc_km": 213,
+    "liczba_drzwi": 5,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": true,
+    "liczba_wlascicieli": 3,
+    "miasto": "Łódź",
+    "sprzedawca": "Ewa Kaczmarek",
+    "data_dodania": {
+      "$date": "2026-06-08T00:00:00Z"
+    },
+    "wyposazenie": [
+      "kamera cofania",
+      "asystent pasa",
+      "podgrzewane fotele",
+      "bluetooth",
+      "LED"
+    ]
+  },
+  {
+    "_id": 100,
+    "marka": "BMW",
+    "model": "318i",
+    "rok": 2025,
+    "przebieg_km": 115305,
+    "cena_pln": 147821,
+    "kolor": "zielony",
+    "paliwo": "elektryczny",
+    "skrzynia_biegow": "automatyczna",
+    "nadwozie": "sedan",
+    "pojemnosc_silnika_l": 1.4,
+    "moc_km": 235,
+    "liczba_drzwi": 4,
+    "czy_bezwypadkowy": false,
+    "czy_serwisowany": false,
+    "liczba_wlascicieli": 4,
+    "miasto": "Rzeszów",
+    "sprzedawca": "Piotr Zieliński",
+    "data_dodania": {
+      "$date": "2025-07-06T00:00:00Z"
+    },
+    "wyposazenie": [
+      "podgrzewane fotele",
+      "LED",
+      "tempomat",
+      "skórzana tapicerka",
+      "czujniki parkowania",
+      "nawigacja"
+    ]
+  }
+]
