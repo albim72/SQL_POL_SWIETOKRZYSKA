@@ -1,0 +1,31 @@
+﻿id;pelne_imie;inicjaly;miasto;zawod;status_konta;poziom_punktow;punkty;liczba_tagow;tagi_csv;rok_rejestracji;miesiac_rejestracji;dni_od_rejestracji
+1;Jan Kowalski;JK;Lublin;student;aktywny;bronze;120;2;python, mongodb;2026;1;77
+2;Anna Nowak;AN;Warszawa;analityk;aktywny;gold;340;2;sql, bi;2025;11;150
+3;Piotr Wiśniewski;PW;Kraków;programista;nieaktywny;silver;210;2;java, backend;2025;10;164
+4;Katarzyna Wójcik;KW;Gdańsk;tester;aktywny;bronze;180;2;qa, selenium;2026;2;60
+5;Marek Kamiński;MK;Poznań;devops;aktywny;platinum;410;2;docker, linux;2025;12;111
+6;Ewa Lewandowska;EL;Wrocław;manager;nieaktywny;silver;260;2;zarzadzanie, agile;2025;9;196
+7;Tomasz Zieliński;TZ;Lublin;programista;aktywny;gold;390;2;python, flask;2026;1;85
+8;Magdalena Szymańska;MS;Warszawa;ux;aktywny;bronze;145;2;figma, design;2025;10;155
+9;Paweł Woźniak;PW;Katowice;admin;aktywny;silver;275;2;sieci, security;2025;8;231
+10;Joanna Dąbrowska;JD;Rzeszów;student;aktywny;bronze;95;2;ai, python;2026;2;51
+11;Łukasz Kozłowski;ŁK;Białystok;programista;nieaktywny;gold;305;2;csharp, dotnet;2025;7;255
+12;Agnieszka Jankowska;AJ;Szczecin;hr;aktywny;bronze;160;2;rekrutacja, komunikacja;2025;11;128
+13;Robert Mazur;RM;Kielce;sprzedaz;nieaktywny;silver;220;2;crm, negocjacje;2025;6;276
+14;Monika Krawczyk;MK;Opole;marketing;aktywny;bronze;190;2;seo, content;2026;1;70
+15;Damian Piotrowski;DP;Lublin;analityk;aktywny;gold;330;2;excel, powerbi;2025;12;118
+16;Natalia Grabowska;NG;Warszawa;tester;nieaktywny;bronze;170;2;qa, api;2025;9;205
+17;Karol Pawlak;KP;Gdynia;programista;aktywny;gold;360;2;nodejs, mongodb;2025;12;95
+18;Martyna Michalska;MM;Toruń;analityk;aktywny;silver;245;2;sql, python;2025;10;173
+19;Sebastian Król;SK;Bydgoszcz;manager;nieaktywny;silver;280;2;zarzadzanie, finanse;2025;8;242
+20;Aleksandra Wieczorek;AW;Lublin;data scientist;aktywny;platinum;420;2;ml, python;2026;2;47
+21;Michał Wróbel;MW;Kraków;devops;aktywny;gold;310;2;kubernetes, cloud;2025;11;137
+22;Zuzanna Majewska;ZM;Olsztyn;student;aktywny;bronze;88;2;frontend, html;2026;1;62
+23;Grzegorz Adamczyk;GA;Poznań;architekt systemow;aktywny;platinum;450;2;architektura, cloud;2025;7;268
+24;Paulina Dudek;PD;Łódź;marketing;nieaktywny;bronze;155;2;social media, kampanie;2025;10;178
+25;Rafał Ostrowski;RO;Warszawa;security engineer;aktywny;gold;395;2;security, linux;2025;12;104
+26;Weronika Górska;WG;Lublin;programista;aktywny;gold;365;2;python, django;2026;2;58
+27;Patryk Rutkowski;PR;Bielsko-Biała;admin;nieaktywny;silver;205;2;windows, powershell;2025;9;187
+28;Sylwia Baran;SB;Rzeszów;ux;aktywny;bronze;175;2;ui, research;2026;1;81
+29;Krzysztof Lis;KL;Gdańsk;sprzedaz;aktywny;silver;290;2;b2b, negocjacje;2025;8;223
+30;Izabela Czarnecka;IC;Wrocław;data analyst;aktywny;gold;325;2;sql, tableau;2025;11;144
