@@ -8,3 +8,4 @@ db.osoby.countDocuments({miasto:"Kraków"})  ile jest osób z Krakowa
 db.osoby.find({miasto:"Kraków"}) - wszytkie osoby z Krakowa
 db.osoby.find({zawod:"programista"}) - -wszyscy programiści
 db.osoby.find({zawod:{$regex:"^prog"}})  wszyscy których zawód zaczyna się od prog
+db.osoby.find({zawod:{$regex:"^prog",$options: "i"}}) - jak wyżej plus ignoworwanie dużych liter
