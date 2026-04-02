@@ -2,12 +2,12 @@ Wyświetl wszystkie samochody marki Toyota. { marka: "Toyota" }
 Wyświetl wszystkie samochody z rocznika 2020 lub nowsze. {rok:{"$gte":2020}}
 Znajdź auta, których cena_pln jest mniejsza niż 30000. {cena_pln:{"$lt":30000}}
 Znajdź auta, których przebieg_km jest większy niż 150000. {przebieg_km:{"$gt":150000}}
-Wyświetl wszystkie samochody z miasta Kraków.
-Znajdź auta z paliwem diesel.
-Wyświetl samochody z automatyczną skrzynią biegów.
-Znajdź auta, które są bezwypadkowe.
-Znajdź auta, które są serwisowane.
-Wyświetl samochody, które mają moc_km większą niż 200.
+Wyświetl wszystkie samochody z miasta Kraków. {miasto:"Kraków"}
+Znajdź auta z paliwem diesel.{paliwo:"diesel"} 
+Wyświetl samochody z automatyczną skrzynią biegów.{skrzynia_biegow:"automatyczna"}
+Znajdź auta, które są bezwypadkowe.{czy_bezwypadkowy:true}
+Znajdź auta, które są serwisowane.{czy_serwisowany:true}
+Wyświetl samochody, które mają moc_km większą niż 200.{moc_km:{"$gt":200}}
 Znajdź auta, które mają od 2 do 4 właścicieli.
 Wyświetl samochody o nadwoziu SUV.
 Znajdź auta w kolorze czarny lub biały.
