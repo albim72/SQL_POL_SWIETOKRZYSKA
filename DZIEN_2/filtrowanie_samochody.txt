@@ -1,5 +1,5 @@
-Wyświetl wszystkie samochody marki Toyota.
-Wyświetl wszystkie samochody z rocznika 2020 lub nowsze.
+Wyświetl wszystkie samochody marki Toyota. { marka: "Toyota" }
+Wyświetl wszystkie samochody z rocznika 2020 lub nowsze. {rok:{"$gte":2020}}
 Znajdź auta, których cena_pln jest mniejsza niż 30000.
 Znajdź auta, których przebieg_km jest większy niż 150000.
 Wyświetl wszystkie samochody z miasta Kraków.
