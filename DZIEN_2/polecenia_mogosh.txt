@@ -4,3 +4,7 @@ db.osoby.findOne() - wyświetlenie pierwszego dokumentu
 db.osoby.find().pretty - metadane
 db.osoby.find().limit(5) - pięć pierwszych dokeumentów
 db.osoby.countDocuments() - liczba dokumentów
+db.osoby.countDocuments({miasto:"Kraków"})  ile jest osób z Krakowa
+db.osoby.find({miasto:"Kraków"}) - wszytkie osoby z Krakowa
+db.osoby.find({zawod:"programista"}) - -wszyscy programiści
+db.osoby.find({zawod:{$regex:"^prog"}})  wszyscy których zawód zaczyna się od prog
