@@ -15,7 +15,7 @@ Wyświetl samochody marki BMW lub Audi. {"$or":[{marka:"BMW", marka:"Audi"}]}
 Znajdź auta, które są tańsze niż 40000 i jednocześnie są bezwypadkowe. {cena_pln:{"$lte":40000},czy_bezwypadkowy:true}
 Znajdź auta z rocznika 2018+, których przebieg jest mniejszy niż 100000 km. {rok:{"$gte":2018},przebieg_km:{"$lt":100000}}
 Wyświetl samochody, które mają w polu wyposazenie element bluetooth.{wyposazenie:"bluetooth"}
-Znajdź auta, które mają w wyposazenie zarówno kamera cofania, jak i nawigacja.
+Znajdź auta, które mają w wyposazenie zarówno kamera cofania, jak i nawigacja.{wyposazenie:{"$all":["kamera cofania","nawigacja"]}}
 Wyświetl samochody dodane po dacie 2026-06-01.
 Znajdź auta, których model zaczyna się na literę C.
 Znajdź auta, których marka zawiera literę o.
