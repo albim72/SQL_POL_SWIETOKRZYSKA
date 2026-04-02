@@ -23,3 +23,21 @@ Wyświetl samochody z pojemnością silnika większą niż 2.0 l.
 Znajdź auta, które mają dokładnie 5 drzwi.
 Wyświetl samochody, które nie są serwisowane.
 Znajdź auta, które są z miasta Warszawa, Kraków albo Gdańsk.
+
+skrypt konwesji na type Date UTC ze string:
+
+db.samochody.updateMany(
+  {data_dodania:{$type:"string"}},
+  [
+    {$set: {
+    data_dodania: {
+      $dateFromString: {
+        dateString: "$data_dodania",
+          format: "%Y-%m-%d",
+          timezone: "UTC"
+      }
+    }
+    }
+    }
+  ]
+)
