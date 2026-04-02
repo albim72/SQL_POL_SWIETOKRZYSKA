@@ -1,0 +1,422 @@
+[
+  {
+    "imie": "Jan",
+    "nazwisko": "Kowalski",
+    "wiek": 25,
+    "miasto": "Lublin",
+    "zawod": "student",
+    "aktywny": true,
+    "punkty": 120,
+    "tagi": [
+      "python",
+      "mongodb"
+    ],
+    "data_rejestracji": "2026-01-15"
+  },
+  {
+    "imie": "Anna",
+    "nazwisko": "Nowak",
+    "wiek": 31,
+    "miasto": "Warszawa",
+    "zawod": "analityk",
+    "aktywny": true,
+    "punkty": 340,
+    "tagi": [
+      "sql",
+      "bi"
+    ],
+    "data_rejestracji": "2025-11-03"
+  },
+  {
+    "imie": "Piotr",
+    "nazwisko": "Wiśniewski",
+    "wiek": 44,
+    "miasto": "Kraków",
+    "zawod": "programista",
+    "aktywny": false,
+    "punkty": 210,
+    "tagi": [
+      "java",
+      "backend"
+    ],
+    "data_rejestracji": "2025-10-20"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazwisko": "Wójcik",
+    "wiek": 29,
+    "miasto": "Gdańsk",
+    "zawod": "tester",
+    "aktywny": true,
+    "punkty": 180,
+    "tagi": [
+      "qa",
+      "selenium"
+    ],
+    "data_rejestracji": "2026-02-01"
+  },
+  {
+    "imie": "Marek",
+    "nazwisko": "Kamiński",
+    "wiek": 38,
+    "miasto": "Poznań",
+    "zawod": "devops",
+    "aktywny": true,
+    "punkty": 410,
+    "tagi": [
+      "docker",
+      "linux"
+    ],
+    "data_rejestracji": "2025-12-12"
+  },
+  {
+    "imie": "Ewa",
+    "nazwisko": "Lewandowska",
+    "wiek": 35,
+    "miasto": "Wrocław",
+    "zawod": "manager",
+    "aktywny": false,
+    "punkty": 260,
+    "tagi": [
+      "zarzadzanie",
+      "agile"
+    ],
+    "data_rejestracji": "2025-09-18"
+  },
+  {
+    "imie": "Tomasz",
+    "nazwisko": "Zieliński",
+    "wiek": 27,
+    "miasto": "Lublin",
+    "zawod": "programista",
+    "aktywny": true,
+    "punkty": 390,
+    "tagi": [
+      "python",
+      "flask"
+    ],
+    "data_rejestracji": "2026-01-07"
+  },
+  {
+    "imie": "Magdalena",
+    "nazwisko": "Szymańska",
+    "wiek": 33,
+    "miasto": "Warszawa",
+    "zawod": "ux",
+    "aktywny": true,
+    "punkty": 145,
+    "tagi": [
+      "figma",
+      "design"
+    ],
+    "data_rejestracji": "2025-10-29"
+  },
+  {
+    "imie": "Paweł",
+    "nazwisko": "Woźniak",
+    "wiek": 41,
+    "miasto": "Katowice",
+    "zawod": "admin",
+    "aktywny": true,
+    "punkty": 275,
+    "tagi": [
+      "sieci",
+      "security"
+    ],
+    "data_rejestracji": "2025-08-14"
+  },
+  {
+    "imie": "Joanna",
+    "nazwisko": "Dąbrowska",
+    "wiek": 24,
+    "miasto": "Rzeszów",
+    "zawod": "student",
+    "aktywny": true,
+    "punkty": 95,
+    "tagi": [
+      "ai",
+      "python"
+    ],
+    "data_rejestracji": "2026-02-10"
+  },
+  {
+    "imie": "Łukasz",
+    "nazwisko": "Kozłowski",
+    "wiek": 36,
+    "miasto": "Białystok",
+    "zawod": "programista",
+    "aktywny": false,
+    "punkty": 305,
+    "tagi": [
+      "csharp",
+      "dotnet"
+    ],
+    "data_rejestracji": "2025-07-21"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazwisko": "Jankowska",
+    "wiek": 30,
+    "miasto": "Szczecin",
+    "zawod": "hr",
+    "aktywny": true,
+    "punkty": 160,
+    "tagi": [
+      "rekrutacja",
+      "komunikacja"
+    ],
+    "data_rejestracji": "2025-11-25"
+  },
+  {
+    "imie": "Robert",
+    "nazwisko": "Mazur",
+    "wiek": 47,
+    "miasto": "Kielce",
+    "zawod": "sprzedaz",
+    "aktywny": false,
+    "punkty": 220,
+    "tagi": [
+      "crm",
+      "negocjacje"
+    ],
+    "data_rejestracji": "2025-06-30"
+  },
+  {
+    "imie": "Monika",
+    "nazwisko": "Krawczyk",
+    "wiek": 28,
+    "miasto": "Opole",
+    "zawod": "marketing",
+    "aktywny": true,
+    "punkty": 190,
+    "tagi": [
+      "seo",
+      "content"
+    ],
+    "data_rejestracji": "2026-01-22"
+  },
+  {
+    "imie": "Damian",
+    "nazwisko": "Piotrowski",
+    "wiek": 39,
+    "miasto": "Lublin",
+    "zawod": "analityk",
+    "aktywny": true,
+    "punkty": 330,
+    "tagi": [
+      "excel",
+      "powerbi"
+    ],
+    "data_rejestracji": "2025-12-05"
+  },
+  {
+    "imie": "Natalia",
+    "nazwisko": "Grabowska",
+    "wiek": 26,
+    "miasto": "Warszawa",
+    "zawod": "tester",
+    "aktywny": false,
+    "punkty": 170,
+    "tagi": [
+      "qa",
+      "api"
+    ],
+    "data_rejestracji": "2025-09-09"
+  },
+  {
+    "imie": "Karol",
+    "nazwisko": "Pawlak",
+    "wiek": 32,
+    "miasto": "Gdynia",
+    "zawod": "programista",
+    "aktywny": true,
+    "punkty": 360,
+    "tagi": [
+      "nodejs",
+      "mongodb"
+    ],
+    "data_rejestracji": "2025-12-28"
+  },
+  {
+    "imie": "Martyna",
+    "nazwisko": "Michalska",
+    "wiek": 34,
+    "miasto": "Toruń",
+    "zawod": "analityk",
+    "aktywny": true,
+    "punkty": 245,
+    "tagi": [
+      "sql",
+      "python"
+    ],
+    "data_rejestracji": "2025-10-11"
+  },
+  {
+    "imie": "Sebastian",
+    "nazwisko": "Król",
+    "wiek": 45,
+    "miasto": "Bydgoszcz",
+    "zawod": "manager",
+    "aktywny": false,
+    "punkty": 280,
+    "tagi": [
+      "zarzadzanie",
+      "finanse"
+    ],
+    "data_rejestracji": "2025-08-03"
+  },
+  {
+    "imie": "Aleksandra",
+    "nazwisko": "Wieczorek",
+    "wiek": 27,
+    "miasto": "Lublin",
+    "zawod": "data scientist",
+    "aktywny": true,
+    "punkty": 420,
+    "tagi": [
+      "ml",
+      "python"
+    ],
+    "data_rejestracji": "2026-02-14"
+  },
+  {
+    "imie": "Michał",
+    "nazwisko": "Wróbel",
+    "wiek": 37,
+    "miasto": "Kraków",
+    "zawod": "devops",
+    "aktywny": true,
+    "punkty": 310,
+    "tagi": [
+      "kubernetes",
+      "cloud"
+    ],
+    "data_rejestracji": "2025-11-16"
+  },
+  {
+    "imie": "Zuzanna",
+    "nazwisko": "Majewska",
+    "wiek": 23,
+    "miasto": "Olsztyn",
+    "zawod": "student",
+    "aktywny": true,
+    "punkty": 88,
+    "tagi": [
+      "frontend",
+      "html"
+    ],
+    "data_rejestracji": "2026-01-30"
+  },
+  {
+    "imie": "Grzegorz",
+    "nazwisko": "Adamczyk",
+    "wiek": 42,
+    "miasto": "Poznań",
+    "zawod": "architekt systemow",
+    "aktywny": true,
+    "punkty": 450,
+    "tagi": [
+      "architektura",
+      "cloud"
+    ],
+    "data_rejestracji": "2025-07-08"
+  },
+  {
+    "imie": "Paulina",
+    "nazwisko": "Dudek",
+    "wiek": 29,
+    "miasto": "Łódź",
+    "zawod": "marketing",
+    "aktywny": false,
+    "punkty": 155,
+    "tagi": [
+      "social media",
+      "kampanie"
+    ],
+    "data_rejestracji": "2025-10-06"
+  },
+  {
+    "imie": "Rafał",
+    "nazwisko": "Ostrowski",
+    "wiek": 40,
+    "miasto": "Warszawa",
+    "zawod": "security engineer",
+    "aktywny": true,
+    "punkty": 395,
+    "tagi": [
+      "security",
+      "linux"
+    ],
+    "data_rejestracji": "2025-12-19"
+  },
+  {
+    "imie": "Weronika",
+    "nazwisko": "Górska",
+    "wiek": 31,
+    "miasto": "Lublin",
+    "zawod": "programista",
+    "aktywny": true,
+    "punkty": 365,
+    "tagi": [
+      "python",
+      "django"
+    ],
+    "data_rejestracji": "2026-02-03"
+  },
+  {
+    "imie": "Patryk",
+    "nazwisko": "Rutkowski",
+    "wiek": 35,
+    "miasto": "Bielsko-Biała",
+    "zawod": "admin",
+    "aktywny": false,
+    "punkty": 205,
+    "tagi": [
+      "windows",
+      "powershell"
+    ],
+    "data_rejestracji": "2025-09-27"
+  },
+  {
+    "imie": "Sylwia",
+    "nazwisko": "Baran",
+    "wiek": 28,
+    "miasto": "Rzeszów",
+    "zawod": "ux",
+    "aktywny": true,
+    "punkty": 175,
+    "tagi": [
+      "ui",
+      "research"
+    ],
+    "data_rejestracji": "2026-01-11"
+  },
+  {
+    "imie": "Krzysztof",
+    "nazwisko": "Lis",
+    "wiek": 46,
+    "miasto": "Gdańsk",
+    "zawod": "sprzedaz",
+    "aktywny": true,
+    "punkty": 290,
+    "tagi": [
+      "b2b",
+      "negocjacje"
+    ],
+    "data_rejestracji": "2025-08-22"
+  },
+  {
+    "imie": "Izabela",
+    "nazwisko": "Czarnecka",
+    "wiek": 33,
+    "miasto": "Wrocław",
+    "zawod": "data analyst",
+    "aktywny": true,
+    "punkty": 325,
+    "tagi": [
+      "sql",
+      "tableau"
+    ],
+    "data_rejestracji": "2025-11-09"
+  }
+]
