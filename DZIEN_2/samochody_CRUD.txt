@@ -6,8 +6,24 @@ Zmień cenę konkretnego samochodu o _id: 1 na nową wartość. {_id:1} -> {
   },
 }
 Ustaw pole czy_serwisowany na true dla samochodu o _id: 5.
-Zwiększ cenę wszystkich samochodów marki BMW o 2000 PLN.
+Zwiększ cenę wszystkich samochodów marki BMW o 2000 PLN. {marka:"BMW"} ->
+{
+  $inc: {
+		"cena_pln":2000
+  },
+}
 Obniż cenę wszystkich aut starszych niż 2012 rok o 10%.
+{rok:{$lt:2012}}
+{
+  $set: {
+		cena_pln:{
+      "$round":[
+        {"$multiply":["$cena_pln",0.9]},
+        0
+      ]
+    }
+  },
+}
 Dodaj do wyposażenia samochodu o _id: 10 element alarm.
 Dodaj do wszystkich aut z automatyczną skrzynią element wyposażenia tempomat.
 Zmień miasto z Kraków na Kraków / Salon dla wszystkich pasujących dokumentów.
