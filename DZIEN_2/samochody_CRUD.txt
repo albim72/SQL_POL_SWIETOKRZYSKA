@@ -49,10 +49,12 @@ Podnieś moc o 10 KM dla wszystkich aut z pojemnością silnika powyżej 3.0 l.
 
 2. Zadania z delete
 
-Usuń samochód o _id: 100.
+po wykonaniu filtra wciśnij przycisk DELETE i potiwerdź usunięcie
+
+Usuń samochód o _id: 100. { _id: 100 }
 Usuń wszystkie auta z miasta Kraków.
 Usuń wszystkie samochody starsze niż 2005 rok.
-Usuń auta, których cena jest mniejsza niż 15000 PLN.
+Usuń auta, których cena jest mniejsza niż 15000 PLN. { cena_pln: { $lt: 15000 } }
 Usuń wszystkie samochody, które nie są bezwypadkowe.
 Usuń auta z przebiegiem większym niż 250000 km.
 Usuń wszystkie samochody, które mają więcej niż 4 właścicieli.
