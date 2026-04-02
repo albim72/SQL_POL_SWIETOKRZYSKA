@@ -10,3 +10,5 @@ db.osoby.find({zawod:"programista"}) - -wszyscy programiści
 db.osoby.find({zawod:{$regex:"^prog"}})  wszyscy których zawód zaczyna się od prog
 db.osoby.find({zawod:{$regex:"^prog",$options: "i"}}) - jak wyżej plus ignoworwanie dużych liter
 db.osoby.find().sort({punkty:1})
+db.osoby.find().sort({punkty:-1})
+
