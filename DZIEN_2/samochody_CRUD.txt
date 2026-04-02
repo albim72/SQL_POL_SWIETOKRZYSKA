@@ -1,6 +1,10 @@
 1. Zadania z update
 
-Zmień cenę konkretnego samochodu o _id: 1 na nową wartość.
+Zmień cenę konkretnego samochodu o _id: 1 na nową wartość. {_id:1} -> {
+  $set: {
+			cena_pln:5555
+  },
+}
 Ustaw pole czy_serwisowany na true dla samochodu o _id: 5.
 Zwiększ cenę wszystkich samochodów marki BMW o 2000 PLN.
 Obniż cenę wszystkich aut starszych niż 2012 rok o 10%.
