@@ -17,8 +17,8 @@ Znajdź auta z rocznika 2018+, których przebieg jest mniejszy niż 100000 km. {
 Wyświetl samochody, które mają w polu wyposazenie element bluetooth.{wyposazenie:"bluetooth"}
 Znajdź auta, które mają w wyposazenie zarówno kamera cofania, jak i nawigacja.{wyposazenie:{"$all":["kamera cofania","nawigacja"]}}
 Wyświetl samochody dodane po dacie 2026-06-01.
-Znajdź auta, których model zaczyna się na literę C.
-Znajdź auta, których marka zawiera literę o.
+Znajdź auta, których model zaczyna się na literę C.{model:{"$regex":"^C"}}
+Znajdź auta, których marka zawiera literę o. {marka:{"$regex":"o","$options":"i"}}
 Wyświetl samochody z pojemnością silnika większą niż 2.0 l.
 Znajdź auta, które mają dokładnie 5 drzwi.
 Wyświetl samochody, które nie są serwisowane.
