@@ -10,8 +10,8 @@ Znajdź auta, które są serwisowane.{czy_serwisowany:true}
 Wyświetl samochody, które mają moc_km większą niż 200.{moc_km:{"$gt":200}}
 Znajdź auta, które mają od 2 do 4 właścicieli. {liczba_wlascicieli:{"$gte":2,"$lte":4}}
 Wyświetl samochody o nadwoziu SUV. {nadwozie:"SUV"}
-Znajdź auta w kolorze czarny lub biały.
-Wyświetl samochody marki BMW lub Audi.
+Znajdź auta w kolorze czarny lub biały. {kolor:{"$in":["czarny","biały"]}}
+Wyświetl samochody marki BMW lub Audi. {"$or":[{marka:"BMW", marka:"Audi"}]}
 Znajdź auta, które są tańsze niż 40000 i jednocześnie są bezwypadkowe.
 Znajdź auta z rocznika 2018+, których przebieg jest mniejszy niż 100000 km.
 Wyświetl samochody, które mają w polu wyposazenie element bluetooth.
