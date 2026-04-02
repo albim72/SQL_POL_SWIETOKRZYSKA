@@ -1,0 +1,6 @@
+use szkolenie - wejście w bazę 
+show collections - pokazanie kolekcji
+db.osoby.findOne() - wyświetlenie pierwszego dokumentu
+db.osoby.find().pretty - metadane
+db.osoby.find().limit(5) - pięć pierwszych dokeumentów
+db.osoby.countDocuments() - liczba dokumentów
