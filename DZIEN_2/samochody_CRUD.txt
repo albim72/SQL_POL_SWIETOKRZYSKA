@@ -70,6 +70,14 @@ Usuń wszystkie dokumenty testowe, którym wcześniej dodano pole promocja: true
 Znajdź wszystkie auta z miasta Lublin, a następnie podnieś ich cenę o 1500 PLN.
 Wyszukaj auta starsze niż 2010, które nie są serwisowane, a następnie usuń je.
 Znajdź wszystkie SUV-y z automatem i dodaj im do wyposażenia czujniki parkowania.
+
+{nadwozie:"SUV",skrzynia_biegow:"automatyczna"}->
+{
+  $addToSet: {
+		wyposazenie:"czujniki parkowania"
+  },
+}
+
 Wyszukaj auta z przebiegiem powyżej 200000 km i oznacz je polem do_sprawdzenia: true.
 Usuń wszystkie auta oznaczone wcześniej jako do_sprawdzenia: true.
 Wyszukaj samochody marki Audi z ceną poniżej 50000 PLN, a następnie ustaw im promocja: true.
