@@ -1,0 +1,4 @@
+customer_id,name,email,city,country
+1,Jan Kowalski,jan@example.com,Lublin,Poland
+2,Anna Nowak,anna@example.com,Warsaw,Poland
+3,Tom Smith,tom@example.com,Krakow,Poland
