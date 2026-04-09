@@ -1,0 +1,4 @@
+pandas>=3.0.0
+numpy>=2.0.0
+pymongo>=4.8.0
+dask[dataframe]>=2025.1.0
